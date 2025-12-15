@@ -235,10 +235,12 @@ STREAMLIT_SERVER_PORT=8501
    ```bash
    streamlit run app.py --server.port 8501 --server.address 0.0.0.0
    ```
-### Application
+## Application
+
 <img width="1916" height="855" alt="image" src="https://github.com/user-attachments/assets/291a0e22-5140-44e6-8233-5326e7c2ce2d" />
 
 <img width="918" height="506" alt="image" src="https://github.com/user-attachments/assets/f4dc3d32-8690-4cbf-a2c6-19a6d9c4579a" />
+
 
 
 
